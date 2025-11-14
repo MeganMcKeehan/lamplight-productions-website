@@ -1,5 +1,7 @@
 # LamplightProductionsWebsite
 
+THIS IS A WORK IN PROGRESS REPO, THE ESTIMATED WEBSITE LAUNCH DATE IS NOVEMBER 30TH
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.10.
 
 ## Development server
